@@ -1,0 +1,70 @@
+.header {
+    text-align: center;
+    padding: 2rem 0;
+    background: linear-gradient(to right, #000428, #004e92);
+    color: white;
+  }
+  
+  .header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .header h2 {
+    font-size: 1.5rem;
+    font-weight: normal;
+  }
+  
+  .nav-bar {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: #f5f5f5;
+  }
+  
+  .search-container {
+    width: 100%;
+    margin-right: 40px;
+    margin-top: 20px;
+    justify-content: end;
+    display: flex;
+  }
+
+  .home-button-container {
+    width: 100%;
+    margin-right: 40px;
+    margin-top: 20px;
+    justify-content: start;
+    display: flex;
+  }
+  
+  .search-container input {
+    padding: 0.5rem;
+    width: 300px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+  }
+  
+  .footer {
+    text-align: center;
+    padding: 2rem;
+    background: #f5f5f5;
+    margin-top: 2rem;
+  }
+  
+  .social-links {
+    margin: 1rem 0;
+  }
+  
+  .social-links a {
+    margin: 0 1rem;
+    color: #004e92;
+    text-decoration: none;
+  }
+  
+  .records-info {
+    text-align: right;
+    padding: 1rem 2rem;
+    color: #666;
+  }
+  

@@ -1,0 +1,5 @@
+copydetect 
+pandas
+pymongo
+random-user-agent
+tqdm
